@@ -9,11 +9,6 @@ def main():
     """Demo the multi-PDF chatbot functionality"""
     print("Multi-PDF Chatbot Demo")
     print("=" * 50)
-    
-    
-    
-    
-    
     load_dotenv()
     
     api_key = os.getenv('GEMINI_API_KEY')
