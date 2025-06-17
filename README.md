@@ -14,7 +14,7 @@ AI-powered chatbot that summarizes multiple PDFs and answers questions about the
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Soumaditya-Kashyap/River.ai.git>
 cd River
 ```
 
